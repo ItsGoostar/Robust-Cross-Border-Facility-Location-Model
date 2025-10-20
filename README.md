@@ -1,4 +1,4 @@
-The file contains three subfiles, each containing a category of instances. 
+The file contains three subfiles, each containing a category of instances. Each category contains 10, 15, 20 demand points.
 
 no.1 contains 20 warehouses, 50 production centers, 50 logistics centers, 2 customs offices. no.2 contains 20 warehouses, 35 production centers, 35 logistics centers, 2 customs offices. no.3 contains 20 warehouses, 20 production centers, 20 logistics centers, 2 customs offices.
 
