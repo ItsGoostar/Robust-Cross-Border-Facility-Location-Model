@@ -1,2 +1,5 @@
-The file contains three subfiles, each containing a category of instances. no.1 contains 20 warehouses, 50 production centers, 50 logistics centers, 2 customs offices. no.2 contains 20 warehouses, 35 production centers, 35 logistics centers, 2 customs offices. no.3 contains 20 warehouses, 20 production centers, 20 logistics centers, 2 customs offices
+The file contains three subfiles, each containing a category of instances. 
+
+no.1 contains 20 warehouses, 50 production centers, 50 logistics centers, 2 customs offices. no.2 contains 20 warehouses, 35 production centers, 35 logistics centers, 2 customs offices. no.3 contains 20 warehouses, 20 production centers, 20 logistics centers, 2 customs offices.
+
 For example, an instance named "pd10_data(2)" in file "Instance Data no.3" means that in this instance, there are 20 warehouses, 20 production centers, 20 logistics centers, 2 customs offices and 10 demand points.
